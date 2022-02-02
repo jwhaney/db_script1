@@ -1,4 +1,4 @@
-# hello world test program using WSL and VSCode for native linux dev feel, ya!
+# hello world test program using Windows Subsystem for Linux (WSL) and VSCode for native linux dev feel
 
 class Dostuff(object):
 
